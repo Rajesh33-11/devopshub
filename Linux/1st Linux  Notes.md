@@ -112,3 +112,28 @@ mv gcp rajesh/gcp
 
 ____
 ----------
+## What is history ?
+**history  = ** shown all history commands
+```
+history
+```
+Nuvvu ippati varaku run chesina commands anni chupisthundi
+<img width="1735" height="930" alt="image" src="https://github.com/user-attachments/assets/4fb7e4e1-42cf-4360-b86d-fa501de60e5e" />
+
+----------
+## What is rm -rf ?
+ rm = Remove (Delete)
+ 
+-r = Recursive (Folder lopala unna files & subfolders ni kuda delete chestundi)
+
+-f = Force (Confirmation adagakunda force ga delete chestundi)
+
+
+"rm -rf command files and directories ni permanently delete cheyyadaniki use chestham."
+```
+rm -rf
+```
+Deleted files Recycle Bin ki vellavu. Permanent ga delete avuthayi.
+<img width="1590" height="561" alt="image" src="https://github.com/user-attachments/assets/30fd29fe-2e5a-457f-8560-2780717887a0" />
+
+----------
