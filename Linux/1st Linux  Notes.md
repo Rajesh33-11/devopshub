@@ -54,16 +54,61 @@ cd
 cd command oka directory (folder) nundi vere directory ki move avvadaniki use chestham.
 <img width="1617" height="387" alt="image" src="https://github.com/user-attachments/assets/0e11b62a-041a-4874-ae6c-7468953828d9" />
 
+----------
+## What is ll ?
+**ll .. = ** long list
+```
+ll
+```
+ll command files and directories ni detailed format lo display chestundi.
+<img width="1462" height="435" alt="image" src="https://github.com/user-attachments/assets/72c77ea3-334f-460b-9f7c-848e588aecfc" />
 
 ----------
-
-## What is cd ..?
-**cd .. = ** one step back
+## What is ls -a ?
+**ls -a = ** hidden files
 ```
-cd ..
+ls -a
 ```
-cd .. command current directory nundi one level parent directory ki move avvadaniki use chestham.
-<img width="1631" height="252" alt="image" src="https://github.com/user-attachments/assets/6d40fa17-2e9d-4978-b712-9224295f6337" />
+ls -a command current directory lo unna normal files tho paatu hidden files and hidden directories ni kuda display chestundi.
+<img width="1497" height="430" alt="image" src="https://github.com/user-attachments/assets/ebba7de4-8cf4-4c1e-968f-5c2626df78a4" />
 
+----------
+## What is mkdir file_name ?
+**mkdir  = ** Make Directory
+```
+mkdir
+```
+mkdir command new directory (folder) create cheyyadaniki use chestham
+<img width="1492" height="595" alt="image" src="https://github.com/user-attachments/assets/efb1f5d7-501d-4ca7-ac51-33595de7a17e" />
 
+----------
+## What is mv?
+**mv  = ** Move
+```
+mv
+```
+mv command files or directories ni oka location nundi vere location ki move cheyyadaniki leda file/folder name ni rename cheyyadaniki use chestham.
+## 👉 mv ki 2 uses unnayi:
+
+### Move (location marchadam)
+### Rename (name marchadam)
+## Scenario 1: Rename File
+
+aws ane file ni production ga rename cheyyi.
+```
+mv aws production
+```
+<img width="1796" height="567" alt="image" src="https://github.com/user-attachments/assets/d5fec5a4-186a-4bfc-8097-e7bdaa41fa82" />
+
+____
+## Scenario 2: Move File
+
+gcp file ni rajesh folder ki move cheyyi.
+```
+mv gcp rajesh/gcp
+```
+
+<img width="1721" height="852" alt="image" src="https://github.com/user-attachments/assets/a0a7d31a-531e-4f82-b91a-cd099342303d" />
+
+____
 ----------
