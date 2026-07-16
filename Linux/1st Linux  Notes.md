@@ -45,13 +45,25 @@ echo $0 command current shell name ni display chestundi.
 <img width="1475" height="282" alt="image" src="https://github.com/user-attachments/assets/5e088dc5-8090-445c-9b12-96cbb0237181" />
 
 ----------
-## What is echo $0?
-**echo $0 = ** find shell name
+
+## What is cd?
+**cd = ** Change Directory
 ```
-echo $0
+cd
 ```
-echo $0 command current shell name ni display chestundi.
-<img width="1475" height="282" alt="image" src="https://github.com/user-attachments/assets/5e088dc5-8090-445c-9b12-96cbb0237181" />
+cd command oka directory (folder) nundi vere directory ki move avvadaniki use chestham.
+<img width="1617" height="387" alt="image" src="https://github.com/user-attachments/assets/0e11b62a-041a-4874-ae6c-7468953828d9" />
+
 
 ----------
 
+## What is cd ..?
+**cd .. = ** one step back
+```
+cd ..
+```
+cd .. command current directory nundi one level parent directory ki move avvadaniki use chestham.
+<img width="1631" height="252" alt="image" src="https://github.com/user-attachments/assets/6d40fa17-2e9d-4978-b712-9224295f6337" />
+
+
+----------
