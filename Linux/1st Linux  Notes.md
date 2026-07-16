@@ -137,3 +137,21 @@ Deleted files Recycle Bin ki vellavu. Permanent ga delete avuthayi.
 <img width="1590" height="561" alt="image" src="https://github.com/user-attachments/assets/30fd29fe-2e5a-457f-8560-2780717887a0" />
 
 ----------
+## What is cp ?
+**cp  = ** copy
+```
+cp source  destnation
+```
+cp command files or directories ni copy cheyyadaniki use chestham. Original file untundi, copy kuda create avuthundi.
+<img width="1135" height="912" alt="image" src="https://github.com/user-attachments/assets/78af634d-cc80-4d8f-89bd-ba07d7010a2d" />
+
+----------
+## What is cp ?
+**cp  = ** copy
+```
+cp source  destnation
+```
+cp command files or directories ni copy cheyyadaniki use chestham. Original file untundi, copy kuda create avuthundi.
+<img width="1135" height="912" alt="image" src="https://github.com/user-attachments/assets/78af634d-cc80-4d8f-89bd-ba07d7010a2d" />
+
+----------
