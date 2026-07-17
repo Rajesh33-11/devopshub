@@ -39,3 +39,15 @@ id
 ### uid → User ID       |    gid → Primary Group   |     ID groups → User belongs to which groups
 <img width="1207" height="95" alt="image" src="https://github.com/user-attachments/assets/230c432c-f433-4771-83fc-b7dda65394e7" />
 
+## new user create
+```
+sudo adduser username
+```
+<img width="797" height="407" alt="image" src="https://github.com/user-attachments/assets/3dbe096a-d229-4b66-b59d-fd2c07ccb3fd" />
+
+## Verify User
+```
+cat /etc/passwd | grep kamesh
+```
+<img width="947" height="87" alt="image" src="https://github.com/user-attachments/assets/3b0c89c5-d279-499d-ad5b-52136e074889" />
+
