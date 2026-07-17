@@ -95,3 +95,11 @@ find / -name *.txt
 ```
 sudo find / -name sudoers -mtime +30
 ```
+
+```
+grep z file_name
+```
+
+```
+grep -i z file_name
+```
