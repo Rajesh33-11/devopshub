@@ -54,3 +54,8 @@ _________
 
 <img width="1092" height="437" alt="image" src="https://github.com/user-attachments/assets/7c4504fb-a02e-41e5-af5e-edc0828af2c7" />
 
+## Switch to another user
+```
+su - username
+```
+<img width="1226" height="227" alt="image" src="https://github.com/user-attachments/assets/860769d5-60aa-4a55-96bb-6d83051a4a4e" />
