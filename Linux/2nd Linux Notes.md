@@ -91,3 +91,7 @@ tail -f file_name
 ```
 find / -name *.txt
 ```
+
+```
+sudo find / -name sudoers -mtime +30
+```
