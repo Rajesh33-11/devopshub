@@ -50,4 +50,7 @@ sudo adduser username
 cat /etc/passwd | grep kamesh
 ```
 <img width="947" height="87" alt="image" src="https://github.com/user-attachments/assets/3b0c89c5-d279-499d-ad5b-52136e074889" />
+_________
+
+<img width="1092" height="437" alt="image" src="https://github.com/user-attachments/assets/7c4504fb-a02e-41e5-af5e-edc0828af2c7" />
 
