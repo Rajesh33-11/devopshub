@@ -33,4 +33,13 @@ ps -ef | grep nginx
 
 ____________________________
 
+## tar cvf is used to create an archive (.tar file). It combines multiple files/directories into a single file,
+```
+tar cvf archive.tar file1 file2 directory1
+```
+### Archive multiple files
+```
+tar cvf backup.tar file1.txt file2.txt file3.txt
+```
+<img width="876" height="295" alt="image" src="https://github.com/user-attachments/assets/0ba7d8e7-67e0-4bf1-87f4-29fd3f57a247" />
 
