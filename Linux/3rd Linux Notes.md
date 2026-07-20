@@ -3,6 +3,7 @@
 top
 ```
 <img width="995" height="372" alt="image" src="https://github.com/user-attachments/assets/3939f81b-778c-420d-b068-2c073d132170" />
+
 ### How do you exit from top
 ```
 q
