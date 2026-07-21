@@ -58,3 +58,7 @@ cat /proc/cpuinfo
 ```
 cat /proc/cpuinfo
 ```
+
+```
+df -h
+```
