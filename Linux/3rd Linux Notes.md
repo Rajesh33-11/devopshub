@@ -42,4 +42,15 @@ tar cvf archive.tar file1 file2 directory1
 tar cvf backup.tar file1.txt file2.txt file3.txt
 ```
 <img width="876" height="295" alt="image" src="https://github.com/user-attachments/assets/0ba7d8e7-67e0-4bf1-87f4-29fd3f57a247" />
+___________________
+```
+zip
+```
 
+```
+cat /etc/os-release
+```
+
+```
+cat /proc/cpuinfo
+```
