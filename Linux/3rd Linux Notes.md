@@ -54,3 +54,7 @@ cat /etc/os-release
 ```
 cat /proc/cpuinfo
 ```
+
+```
+cat /proc/cpuinfo
+```
