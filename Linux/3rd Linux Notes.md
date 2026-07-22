@@ -80,3 +80,14 @@ du -sk * | grep <Dir Name>
 ```
 d
 ```
+
+
+```
+free -m
+```
+
+```
+ifconfig
+```
+
+
