@@ -74,7 +74,7 @@ du -h
 du -sk *
 ```
 ```
-du -sk * <Dir Name>
+du -sk * | grep <Dir Name>
 ```
 
 ```
