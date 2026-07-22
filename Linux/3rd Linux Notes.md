@@ -62,3 +62,6 @@ cat /proc/cpuinfo
 ```
 df -h
 ```
+```
+du
+```
