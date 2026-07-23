@@ -34,10 +34,35 @@ su - Techie
 sudo apt update
 ```
 <img width="770" height="172" alt="image" src="https://github.com/user-attachments/assets/81c7a732-7a11-43b6-aa81-93972a66bf0a" />
+_______________________________
 
 # 2.Navigate to the home directory.
+### Using cd
+```
+cd
+```
+<img width="515" height="172" alt="image" src="https://github.com/user-attachments/assets/d6c7fcc3-5ba6-45fa-8901-c7efe6249617" />
+____________________
+
 # 3.Create a new directory.
+```
+mkdir rajesh33
+```
+<img width="581" height="152" alt="image" src="https://github.com/user-attachments/assets/7f0e3fe5-0111-4b48-889e-36ffbbe9baf1" />
+
 # 4.List the contents of a directory.
+```
+ls
+```
+```
+ll
+```
+```
+ls -a
+```
+<img width="797" height="337" alt="image" src="https://github.com/user-attachments/assets/820ed020-3017-45c2-b525-9e97a65ff50d" />
+
+____________________________________________________________ 
 # 5.Change the current directory.
 # 6.Create a new empty file.
 # 7.View the contents of a file.
