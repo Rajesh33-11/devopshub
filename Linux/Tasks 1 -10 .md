@@ -64,8 +64,26 @@ ls -a
 
 ____________________________________________________________ 
 # 5.Change the current directory.
+```
+cd dir_name
+```
+<img width="502" height="162" alt="image" src="https://github.com/user-attachments/assets/b4531792-02b0-4a3c-bc8f-44bd596794e3" />
+
+____________________________________________________________ 
 # 6.Create a new empty file.
+```
+touch <file-name>
+```
+<img width="562" height="142" alt="image" src="https://github.com/user-attachments/assets/3c518ddb-26e2-49c9-9127-ceb1306f1172" />
+
+_____________________________
 # 7.View the contents of a file.
+```
+cat <file_name>
+```
+<img width="661" height="231" alt="image" src="https://github.com/user-attachments/assets/bdc6c8bc-a978-4b40-8ec2-1ba48b64e7a5" />
+
+_____________________________
 # 8.Copy a file to another location.
 # 9.Move a file to another location.
 # 10.Rename a file.
