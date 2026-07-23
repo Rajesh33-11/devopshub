@@ -96,4 +96,9 @@ ifconfig
 
 ```
 netstat -na | grep <Port_Number>
+```
+
+```
+lsof -i tcp:<Port_Number>
+```
 
