@@ -121,3 +121,11 @@ lsof -i tcp:80
 ```
 scp filename username@publicip:/path
 ```
+```
+awk
+```
+
+``
+sed
+```
+
