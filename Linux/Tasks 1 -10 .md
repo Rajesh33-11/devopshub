@@ -85,5 +85,23 @@ cat <file_name>
 
 _____________________________
 # 8.Copy a file to another location.
+```
+cp <source_file> <destination>
+```
+<img width="597" height="332" alt="image" src="https://github.com/user-attachments/assets/bf99ebc0-e8a0-459a-9c5d-a33cd47ccd02" />
+
+________________________________
+
 # 9.Move a file to another location.
+```
+mv <source_file> <destination_directory>
+```
+<img width="607" height="191" alt="image" src="https://github.com/user-attachments/assets/5f50c508-cdf0-433b-8413-b92b0ecafed8" />
+
+_________________
 # 10.Rename a file.
+```
+mv <old_file_name> <new_file_name>
+```
+<img width="757" height="182" alt="image" src="https://github.com/user-attachments/assets/027aedf1-8ec4-430a-97e9-6d028e17fb5f" />
+
