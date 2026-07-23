@@ -87,7 +87,11 @@ free -m
 ```
 
 ```
+netstat -na
+```
+```
 ifconfig
 ```
+<img width="922" height="80" alt="image" src="https://github.com/user-attachments/assets/97b0cfc1-c6f0-4025-96da-e0c5dfe979cb" />
 
 
