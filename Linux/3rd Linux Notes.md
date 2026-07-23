@@ -102,6 +102,16 @@ netstat -na | grep <Port_Number>
 lsof -i tcp:<Port_Number>
 ```
 ```
-nslookup
+nslookup <domain_name>
+```
+```
+ping www.google.com
 ```
 
+```
+wget
+```
+
+```
+wget
+```
