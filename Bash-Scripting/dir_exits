@@ -1,0 +1,17 @@
+#!/bin/bash
+
+DIR="/c/devopshub/Bash-Scripting/mydirectory"
+
+if [ -d "$DIR" ]; then
+  echo "Directory already exists: $DIR"
+else
+  echo "Directory does not exist. Creating it now..."
+  mkdir -p "$DIR"
+
+  if [ -d "$DIR" ]; then
+    echo "Directory created successfully: $DIR"
+  else
+    echo "Failed to create directory."
+  fi
+fi
+

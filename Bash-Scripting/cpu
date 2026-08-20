@@ -1,0 +1,18 @@
+#!/bin/bash
+ 
+THRESHOLD=80
+EMAIL="admin@example.com"
+ 
+CPU_IDLE=$(top -bn1 | grep "Cpu(s)" | awk '{print $8}')
+CPU_USAGE=$(echo "100 - $CPU_IDLE" | bc | cut -d. -f1)
+ 
+echo "Current CPU usage: $CPU_USAGE%"
+ 
+if [ "$CPU_USAGE" -gt "$THRESHOLD" ]; then
+  SUBJECT="High CPU Alert on $(hostname)"
+  BODY="Warning: CPU usage is at ${CPU_USAGE}%, which exceeds the ${THRESHOLD}% threshold."
+  echo "$BODY" | mail -s "$SUBJECT" "$EMAIL"
+  echo "Alert email sent to $EMAIL"
+else
+  echo "CPU usage is normal. No alert sent."
+fi
