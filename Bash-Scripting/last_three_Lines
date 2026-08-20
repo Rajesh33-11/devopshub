@@ -1,0 +1,25 @@
+
+#!/bin/bash
+
+FILE="$1"
+
+if [ -z "$FILE" ]; then
+  echo "Usage: $0 <filename>"
+  exit 1
+fi
+
+if [ ! -f "$FILE" ]; then
+  echo "File not found: $FILE"
+  exit 1
+fi
+
+LINES=$(wc -l < "$FILE")
+
+if [ "$LINES" -le 3 ]; then
+  echo "File has 3 or fewer lines. Clearing file."
+  > "$FILE"
+else
+  head -n -3 "$FILE" > "$FILE.tmp" && mv "$FILE.tmp" "$FILE"
+  echo "Last 3 lines removed from $FILE"
+fi
+
